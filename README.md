@@ -24,4 +24,4 @@
 9) **Then, I plot the Confusion Matrix to Evaluate the Performance of the model on the data.**
 10) **I have plot some correctly classfied and misclassified Images for Visualization.**
 11) **I plot the Classification report and drew important insights.**
-12) **Finally, I predicted on the Test Data and Acheived Accuracy of 93.4%**
+12) **Finally, I have predicted on the Test Data and Acheived Accuracy of 93.4%**
